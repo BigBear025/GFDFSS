@@ -16,9 +16,8 @@
 }
 
 /* transparency for channels and members list and private channels and left side of settings*/
-/*.container-PNkimc, .privateChannels-1nO12o, .da-app .sidebarRegion-VFTUkN, .da-app .container-3baos1 {
-	background: transparent;
-	background-image: var(--transparency-2);
+.container-PNkimc, .privateChannels-1nO12o, .da-app .sidebarRegion-VFTUkN, .da-app .container-3baos1 {
+	background-color: #FFF;
 }
 .theme-dark .container-3baos1, .theme-light .container-3baos1 {
 	background: var(--transparency-2);
