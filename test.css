@@ -16,7 +16,7 @@
 }
 
 /* transparency for channels and members list and private channels and left side of settings*/
-.container-PNkimc, .privateChannels-1nO12o, .da-app .sidebarRegion-VFTUkN, .da-app .container-3baos1 {
+/*.container-PNkimc, .privateChannels-1nO12o, .da-app .sidebarRegion-VFTUkN, .da-app .container-3baos1 {
 	background: transparent;
 	background-image: var(--transparency-2);
 }
