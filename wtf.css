@@ -1,0 +1,25 @@
+/* transparency made to work with gradients */
+/* Background Image */
+.da-appMount {
+	background: var(--background-image);
+}
+
+/* removes a border under better discord at channels */
+.unread-1xRYoj {
+	display:none;
+}
+/* removes a margin bottom */
+.container-3baos1 {
+	margin-bottom: 0px;
+}
+.base-3dtUhz {
+    border-radius:0px;
+}
+
+/* fixes */
+.theme-dark {
+    --background-primary: none;
+    --background-secondary: none;
+    --background-tertiary: none;
+	--background-accent: none;
+}
