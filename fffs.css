@@ -6,7 +6,7 @@
 
 /* removing backgrounds */
 .container-2lgZY8, .channels-Ie2l6A, .da-app .layer-3QrUeG, .da-app .layers-3iHuyZ, .da-app .chat-3bRxxu, .da-app .channelTextArea-rNsIhG, .da-app .content-yTz4x3, .da-app .messagesWrapper-3lZDfY, .da-app .chat-3bRxxu form, .da-app .members-1998pB, .da-app .headerBar-UHpsPw, .da-app .standardSidebarView-3F1I7i, .da-app .typing-2GQL18 {
-	background: transparent;
+	background-color: #FFF;
 }
 
 /* Guild and Top bar transparency */
@@ -17,7 +17,8 @@
 
 /* transparency for channels and members list and private channels and left side of settings*/
 .container-PNkimc, .privateChannels-1nO12o, .da-app .sidebarRegion-VFTUkN, .da-app .container-3baos1 {
-	background-color: #FFF;
+	background-color: transparent;
+	background-image: var(--transparency-2);
 }
 .theme-dark .container-3baos1, .theme-light .container-3baos1 {
 	background: var(--transparency-2);
