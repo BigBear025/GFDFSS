@@ -15,11 +15,3 @@
 .base-3dtUhz {
     border-radius:0px;
 }
-
-/* fixes */
-.theme-dark {
-    --background-primary: none;
-    --background-secondary: none;
-    --background-tertiary: none;
-	--background-accent: none;
-}
